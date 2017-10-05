@@ -1,7 +1,7 @@
 package main
 
-import "github.com/goadapp/goad/cli"
+import "github.com/goadapp/goad/jcli"
 
 func main() {
-	cli.Run()
+	jcli.Runner()
 }
